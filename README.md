@@ -17,7 +17,7 @@
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"</img>  
 </div><br/>
 
-## Próximas tecnologias a serem aprimoradas
+## Próximas tecnologias a serem estudadas
 
 <div style="display: inline-block"> <br/>
   <img align="center" alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"</img>  
