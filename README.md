@@ -7,7 +7,7 @@
 
 ![Lucas Goeten GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgoetengithub&show_icons=true&theme=tokyonight)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que uso no meu dia
 
 <div style="display: inline-block"> <br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"</img>
