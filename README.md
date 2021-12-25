@@ -7,6 +7,11 @@
 
 ![Lucas Goeten GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgoetengithub&show_icons=true&theme=tokyonight)
 
+## Sobre mim
+Moro em: Indaial - SC
+Skills: Dev backend (Java) frontend (Angular)
+
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline-block"> <br/>
