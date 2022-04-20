@@ -9,7 +9,7 @@
 
 ## Sobre mim
 Moro em: Indaial - SC
-Skills: Dev backend (Java) frontend (Angular)
+Skills: Dev backend (Java) frontend (Angular, React)
 
 
 ## Tecnologias que uso no meu dia
