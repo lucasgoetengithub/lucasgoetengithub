@@ -28,7 +28,7 @@ Skills: Dev backend (Java) frontend (Angular, React)
 ## Tecnologias sendo estudadas no momento
 
 <div style="display: inline-block"> <br/>
-  
+  <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"</img>  
 </div><br/>
 
 ## Próximas tecnologias a serem estudadas
