@@ -29,6 +29,8 @@ Skills: Dev backend (Java) frontend (Angular, React)
 
 <div style="display: inline-block"> <br/>
   <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"</img>  
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"</img>  
+  <img align="center" alt="K8s" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"</img>
 </div><br/>
 
 ## Próximas tecnologias a serem estudadas
