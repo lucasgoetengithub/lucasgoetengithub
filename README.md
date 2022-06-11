@@ -25,7 +25,7 @@ Skills: Dev backend (Java) frontend (Angular, React)
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"</img>  
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailtondomingos&hide=pascal&layout=compact&theme=tokyonight)](https://github.com/lucasgoetengithub/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgoetengithub&hide=pascal&layout=compact&theme=tokyonight)](https://github.com/lucasgoetengithub/github-readme-stats)
 
 ## Tecnologias sendo estudadas no momento
 
