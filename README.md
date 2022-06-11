@@ -35,6 +35,7 @@ Skills: Dev backend (Java) frontend (Angular, React)
 
 <div style="display: inline-block"> <br/>
 <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"</img>
+<img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=whit"</img>  
 </div><br/>
 
 ## Próximas tecnologias a serem estudadas
