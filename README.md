@@ -11,7 +11,6 @@
 Moro em: Indaial - SC
 Skills: Dev backend (Java) frontend (Angular, React)
 
-
 ## Tecnologias que tenho domínio
 
 <div style="display: inline-block"> <br/>
