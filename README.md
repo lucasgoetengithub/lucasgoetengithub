@@ -30,14 +30,14 @@ Skills: Dev backend (Java) frontend (Angular, React)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgoetengithub&hide=pascal&layout=compact&theme=tokyonight)](https://github.com/lucasgoetengithub/github-readme-stats)
 
-## Tecnologias sendo estudadas no momento
+## Tecnhnologies currently being study 
 
 <div style="display: inline-block"> <br/>
 <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"</img>
 <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=whit"</img>  
 </div><br/>
 
-## Próximas tecnologias a serem estudadas
+## Next tecnhnologies to be studied
 
 <div style="display: inline-block"> <br/>
   <img align="center" alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"</img>  
@@ -49,14 +49,4 @@ Skills: Dev backend (Java) frontend (Angular, React)
 <!--
 **lucasgoetengithub/lucasgoetengithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Invillia com um setor dentro da PagSeguro
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
